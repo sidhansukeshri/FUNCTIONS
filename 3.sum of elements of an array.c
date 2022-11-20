@@ -1,3 +1,4 @@
+//my reg no is RA2211042010032
 #include <stdio.h>
 #define MAX_ELEMENTS 100
 int sumOfElements(int[], int);
