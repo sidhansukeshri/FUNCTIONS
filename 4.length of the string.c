@@ -6,7 +6,7 @@ int main()
     char text[100];
     int length;
     printf("Enter text (max- 100 characters): ");
-    scanf("%s", text);
+    scanf("%s",&text);
     length = stringLength(text);
     printf("Input text is: %s\n", text);
     printf("Length is: %d\n", length);
